@@ -9,6 +9,8 @@
  *8. useCreateUserWithEmailAndPassword from react firebase hooks
  *9. if user is created redirect to the expected page
  *10. useSignInWithEmailAndPassword for sign in;
+ *11. create RequireAuth component ==> check user wxists also tract user loction;
+ *12. In route wreap protected components by using require Auth component
  */
 
 //  hosting steps
